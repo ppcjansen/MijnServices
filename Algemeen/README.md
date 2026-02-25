@@ -1,16 +1,14 @@
 MijnServices is een verzameling van digitale (gegevens) services die gebruikt worden in interactiepatronen tijdens de digitale communicatie tussen burgers of bedrijven en de overheid en tussen overheden onderling. Deze services worden als overheidsbreed toepasbare services ontwikkeld, waarbij (landelijke) standaardisatie het uitgangspunt is. Ze zijn bewust platform-, kanaal-, product- en organisatieonafhankelijk ontwikkeld zodat een bredere toepassing binnen de gehele overheid mogelijk is. 
 De MijnServices omvat een aantal services:
 
-MijnZaken 
-MijnTaken
-MijnActies
-MijnBerichten
-MijnContactmomenten
-MijnProducten
-MijnGesprekken
-MijnPlannen
-MijnGegevens
-Notificatie
+[MijnZaken](/MijnZaken/)
+[MijnTaken](/MijnTaken/)
+[MijnBerichten](/MijnBerichten/)
+[MijnContactmomenten](/MijnContactmomenten/)
+[MijnProducten](/MijnProducten/)
+[MijnGesprekken](/MijnGesprekken/)
+[MijnPlannen](/MijnPlannen/)
+[MijnGegevens](/MijnGegevens/)
 
 De services leveren een set gegevens op die gebruikt kunnen worden in interactiecomponenten zoals websites, apps, chatbots of applicaties voor medewerkers. Door informatiemodellen is onderlinge samenhang tussen de services geborgd en kunnen specifieke API’s ontwikkeld worden voor het bevragen van de gegevens uit de onderliggende registraties of voorzieningen.
 
