@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Kennis centrum Architectuur | Robert Melskens |
+| Omnichannel / MijnServices | Paul Jansen |
 <hr/>
 
 ## ReSpec template instructies
